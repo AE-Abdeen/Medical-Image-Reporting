@@ -1,1 +1,1 @@
-# Medical-Image-Reporting
+# On the Automatic Generation of Medical Imaging Reports
